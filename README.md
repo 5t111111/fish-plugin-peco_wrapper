@@ -1,7 +1,7 @@
-# fish-plugin-peco_wrapper
+# peco_wrapper
 
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_wrapper
+$ fisher unreliable-angels/peco_wrapper
 ```
